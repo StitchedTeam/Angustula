@@ -1,0 +1,10 @@
+Funções para cada efeito sonoro:
+
+bee_redirected: quando o jogador 'redireciona' um esquadrão de abelhas para outra tarefa
+buraco_aberto: tocar no momento em que um 'buraco' se abre na colmeia
+enemy_sound: tocar quando algum inimigo entrar na colmeia
+game_ui_click: som para os cliques na UI do jogo (exceto na hora de selecionar o conteúdo do favo)
+honeycomb_select: som para o clique na UI na hora de selecionar o conteúdo do favo
+menu_and_ui_click: som para os cliques no menu principal
+
+nenhum dos efeitos sonoros acontecerá em loop
